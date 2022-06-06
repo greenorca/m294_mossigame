@@ -1,3 +1,17 @@
+# Mossi-Game
+
+In Anlehnung an den "Mückenfang" aus dem alten M335.
+
+<img alt="README-3afc0d01.png" src="img/README-3afc0d01.png" width="" height="" >
+
+1. Mücken erscheinen zuällig und verschwinden nach einem Timeout
+2. für jede *gefangene* Mücke gibt es einen Punkt
+
+## Ausbau
+
+* Level und Spielende (wie im M335)
+* Highscores (online, mit REST-API)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and customized for WISS Modul 294.
