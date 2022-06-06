@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and customized for WISS Modul 294.
+
+1. Initialize after locally cloning: `npm audit fix`
+2. Run with `npm start`
 
 ## Available Scripts
 
