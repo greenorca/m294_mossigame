@@ -4,7 +4,7 @@ In Anlehnung an den "Mückenfang" aus dem alten M335.
 
 <img alt="README-3afc0d01.png" src="img/README-3afc0d01.png" width="" height="" >
 
-1. Mücken erscheinen zuällig und verschwinden nach einem Timeout
+1. Mücken erscheinen zufällig und verschwinden nach einem Timeout
 2. für jede *gefangene* Mücke gibt es einen Punkt
 
 ## Ausbau
