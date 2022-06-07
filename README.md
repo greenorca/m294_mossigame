@@ -12,6 +12,13 @@ In Anlehnung an den "Mückenfang" aus dem alten M335.
 * Level und Spielende (wie im M335)
 * Highscores (online, mit REST-API)
 
+## Benutzungshinweise
+
+1. Voraussetzungen: NodeJS ist installiert
+1. klonen
+2. im Clon-Verzeichnis `npm audit --fix` ausführen
+3. starten mit `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and customized for WISS Modul 294.
